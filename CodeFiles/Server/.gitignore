@@ -1,0 +1,8 @@
+# Private credentials — never commit
+email_secrets.py
+
+# Local data / runtime artifacts
+users.db
+server.log
+__pycache__/
+*.pyc

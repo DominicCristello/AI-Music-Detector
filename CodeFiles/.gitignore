@@ -1,0 +1,72 @@
+# Python-generated files
+__pycache__/
+*.py[cod]
+*.pyd
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Credentials and private configuration
+.env
+.env.*
+!.env.example
+**/email_secrets.py
+
+# Local account data and runtime output
+*.db
+*.db-journal
+*.sqlite
+*.sqlite3
+*.log
+history.json
+history_cache/
+**/history_cache/
+
+# Packaging output and downloaded executables
+build/
+dist/
+*.exe
+*.7z
+*.zip
+ffmpeg-*/
+Archived/
+
+# Locally downloaded/generated audio collections
+MovingSongs/
+downloads/
+generated_tracks/
+
+# Generated training datasets containing collected audio features
+*.csv
+
+# Trained models and non-source media are intentionally not part of the
+# source-only public repository.
+*.pkl
+*.wav
+*.mp3
+*.flac
+*.ogg
+*.aac
+*.m4a
+*.aiff
+*.aif
+*.png
+*.jpg
+*.jpeg
+Screenshots_AIMusic/
+
+# Local planning notes
+TODO_dataset_build.txt
+
+# Editor and operating-system files
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini
+.DS_Store
