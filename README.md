@@ -210,5 +210,3 @@ For a solo project, the breadth is substantial: audio signal processing, tabular
 Created by **Dominic Cristello** as an independent machine-learning, audio-analysis, and desktop-software project.
 
 Project repository: [github.com/DominicCristello/AI-Music-Detector](https://github.com/DominicCristello/AI-Music-Detector)
-
-> **Customization note:** Before publishing, consider adding a short personal paragraph here describing what motivated you to build the detector, the hardest engineering problem you solved, and what you learned from the project. That personal reflection will make the README more memorable to recruiters than technical details alone.
